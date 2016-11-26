@@ -1,0 +1,15 @@
+{
+  "name": "splittable-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "presplit": "mkdir out",
+    "split": "splittable index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "splittable": "^2.1.0"
+  }
+}

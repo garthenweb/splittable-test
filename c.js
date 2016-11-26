@@ -1,0 +1,1 @@
+export default (multiplicator) => multiplicator * 5;
